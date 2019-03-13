@@ -1,6 +1,6 @@
 
 /**
- * This is my demo project for github.
+ * This is my demo project for github.https://github.com/krabbypattydeluxe/github-demo.git
  *
  * @author (your name)
  * @version (a version number or a date)
